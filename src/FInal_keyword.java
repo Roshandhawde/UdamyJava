@@ -1,6 +1,6 @@
 
 // final Class Cannot be extended
-// final variable cannot be updated 
+// final variable cannot be updated
 class AA{
     String name;
     final int age = 20; // Final variable, cannot be changed
